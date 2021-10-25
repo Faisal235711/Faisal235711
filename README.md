@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 #### I'm Faisal 
 
-https://github-readme-stats.vercel.app/api?username=Faisal235711&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faisal235711&theme=radical)
